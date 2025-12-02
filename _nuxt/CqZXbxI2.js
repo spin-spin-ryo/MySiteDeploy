@@ -1,0 +1,1 @@
+const t={JAPANESE:"Japanese",SCOTCH:"Scotch",BOURBON:"Bourbon",CANADIAN:"Canadian",IRISH:"Irish",OTHER:"Other"},s={sweet:"sweet",fruity:"fruity",smoky:"smoky",spicy:"spicy",nutty:"nutty",other:"other"};export{s as T,t as W};

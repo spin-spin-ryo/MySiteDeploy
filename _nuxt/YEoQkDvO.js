@@ -1,0 +1,1 @@
+import{$ as t,r as i}from"./CbJttmeQ.js";const f=t("order",()=>{const r=i(new Map);function n(e){e.id&&r.value.set(e.id,e)}function o(e){e.id&&r.value.delete(e.id)}function d(e){return r.value.has(e)}return{orderSet:r,add:n,remove:o,isContain:d}});export{f as u};

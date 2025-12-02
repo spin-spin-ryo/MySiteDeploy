@@ -1,0 +1,1 @@
+import{_ as o}from"./OTJyBGsD.js";import{_ as s,b as a,o as n,a as r,f as c,Q as _,F as m}from"./CbJttmeQ.js";import"./YEoQkDvO.js";const f={},l={class:"justify-between pb-16"};function i(e,d){const t=o;return n(),a(m,null,[r("main",l,[_(e.$slots,"default")]),c(t)],64)}const b=s(f,[["render",i]]);export{b as default};

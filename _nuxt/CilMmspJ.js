@@ -1,0 +1,1 @@
+import{d as a,b as o,o as r,n as s,f as c,t as m,w as _,R as d,S as u}from"./CbJttmeQ.js";const i={key:0},f=a({__name:"error",props:["error"],setup(e){return(p,t)=>{const n=u;return r(),o("div",null,[e.error?(r(),o("h1",i,m(e.error.statusCode),1)):s("",!0),c(n,{to:"/",prefetch:""},{default:_(()=>t[0]||(t[0]=[d("Go back home")])),_:1})])}}});export{f as default};

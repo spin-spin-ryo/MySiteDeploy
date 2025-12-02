@@ -1,0 +1,1 @@
+import{u as o,a}from"./4rbrKLgP.js";import{U as t,V as n}from"./CbJttmeQ.js";const s=o(),f=t((i,u)=>{if(s.accessToken.length===0){const e=a("token");if(e.value)s.accessToken=e.value;else return n("/login")}});export{f as default};
